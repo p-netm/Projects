@@ -39,4 +39,5 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
-/pysolutions/text/palindrome.py
+/pysolutions/text/word_count.py
+/pysolutions/text/testit.py
